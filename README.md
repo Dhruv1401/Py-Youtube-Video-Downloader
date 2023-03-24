@@ -1,11 +1,18 @@
 # Py-Youtube-Video-Downloader
 This is a youtube Video Downloader made in Python.
-You may use the code for your purposes or you may do anything you want, but please atheist give me some credits.
-
+<br>
+You may use the code for your purposes or you may do anything you want, but please atleast give me some credits.
+<br>
 Discord = Dhruv Jadav#1620
-Instagram = dhruv.jadav.1417
-
+<br>
+Instagram = <a href="https://instagram.com/dhruv.jadav.1417">dhruv.jadav.1417</a>
+<br>
+My Website = <a href="dhruvjadav.com">dhruvjadav.com</a>
+<br>
 Please like this repository if want to.
+<br>
 I will add more options and features in the code afterwards.
+<br>
 You may freely develop the code as you want.
+<br>
 Thank-You for reading till here
