@@ -9,10 +9,10 @@ Instagram = <a href="https://instagram.com/dhruv.jadav.1417">dhruv.jadav.1417</a
 <br>
 My Website = <a href="dhruvjadav.com">dhruvjadav.com</a>
 <br>
-Please like this repository if want to.
+Please like <b>this</b> repository if want to.
 <br>
-I will add more options and features in the code afterwards.
+I will add more options and features in the <b>code</b> afterwards.
 <br>
-You may freely develop the code as you want.
+You may <b>freely</b> develop the code as you want.
 <br>
 Thank-You for reading till here
