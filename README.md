@@ -1,7 +1,7 @@
 # Py-Youtube-Video-Downloader
 This is a youtube Video Downloader made in Python.
 <br>
-You may <b>use</b> the code for your purposes or you may do anything you want, but please atleast give me some credits.
+You may <b style="color:red">use</b> the code for your purposes or you may do anything you want, but please atleast give me some credits.
 <br>
 Discord = Dhruv Jadav#1620
 <br>
